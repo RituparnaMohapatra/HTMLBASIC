@@ -1,0 +1,30 @@
+/* 1. h1 element selector */
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+/* 2. h2 element selector */
+h2 {
+  color: darkgreen;
+  font-style: italic;
+}
+
+/* 3. p element selector */
+p {
+  font-size: 18px;
+  color: brown;
+}
+
+/* 4. ul element selector */
+ul {
+  background-color: lightyellow;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+/* 5. a element selector */
+a {
+  color: purple;
+  text-decoration: none;
+}
